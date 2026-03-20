@@ -4,7 +4,7 @@ This project implements a complete **Inverted Index** pipeline, which is a found
 
 ---
 
-## 👥 Project Contributors
+## 👥 Project Contributors (Group 3)
 - **Ali Cihan Ozdemir** - 9091405
 - **Roshan Bartaula did not come to clas and contributed nothing**
 ---
